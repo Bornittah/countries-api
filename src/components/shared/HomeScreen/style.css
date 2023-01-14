@@ -1,0 +1,15 @@
+.home-section {
+  background-color: #da4f84;
+  color: #fff;
+  padding: 60px 24px;
+  align-items: flex-end;
+  text-align: right;
+}
+
+.home-section h2 {
+  font-size: 2rem;
+}
+
+.home-section p {
+  font-size: 1.2rem;
+}

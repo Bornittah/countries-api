@@ -1,0 +1,21 @@
+.header {
+  width: 100%;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  width: 95%;
+  margin: 0 auto;
+  align-items: center;
+  padding: 8px 0;
+}
+
+.navbar ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.navbar ul li{
+  margin-right: 12px;
+}
