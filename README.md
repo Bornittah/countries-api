@@ -66,7 +66,7 @@ HTML, CSS, Es6 Javascript
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Live Demo Link](https://countries-api-8kc4.onrender.com/)
+[Live Demo Link](https://countriesapi.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
