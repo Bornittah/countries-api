@@ -54,7 +54,7 @@ HTML, CSS, Es6 Javascript
 
 >Here are the key features of the application.
 
-- Fetches data from the OpenWeatherMap API
+- Fetches data from the rest countries API
 - Displays a home page with different regions in the world
 - Allows users to click on each region to view detailed  information
 - Search bar to filter regions, countries by name
@@ -65,7 +65,13 @@ HTML, CSS, Es6 Javascript
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Live Demo Link]()
+[Live Demo Link](https://countries-api-8kc4.onrender.com/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Video Presentation <a name="live-demo"></a>
+
+[Video Presentation Link](https://www.loom.com/share/5992228604784bc596ca0b50830df0c9)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,18 +129,6 @@ You can deploy this project using:
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-<!-- ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- CONTRIBUTING -->
 
