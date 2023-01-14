@@ -15,7 +15,7 @@ const HomeScreen = ({ title, count, units }) => (
 
 HomeScreen.propTypes = {
   title: PropTypes.string,
-  count: PropTypes.string,
+  count: PropTypes.number,
   units: PropTypes.string,
 };
 

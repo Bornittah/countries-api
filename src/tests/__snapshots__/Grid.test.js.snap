@@ -1,13 +1,13 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Testing Grid component Testing with snapshot 1`] = `
-<div
-  className="grid"
+<a
+  className="link"
+  href="/continent/null"
+  onClick={[Function]}
 >
-  <a
-    className="link"
-    href="/continent/null"
-    onClick={[Function]}
+  <div
+    className="grid"
   >
     <svg
       fill="currentColor"
@@ -38,6 +38,6 @@ exports[`Testing Grid component Testing with snapshot 1`] = `
         </span>
       </p>
     </div>
-  </a>
-</div>
+  </div>
+</a>
 `;
