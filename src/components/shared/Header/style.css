@@ -19,3 +19,14 @@
 .navbar ul li {
   margin-right: 12px;
 }
+
+@media screen and (max-width: 768px) {
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0 auto;
+    align-items: center;
+    padding: 8px 0;
+  }
+}

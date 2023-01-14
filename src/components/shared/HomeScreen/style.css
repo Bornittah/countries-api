@@ -13,3 +13,10 @@
 .home-section p {
   font-size: 1.2rem;
 }
+
+@media screen and (max-width: 768px) {
+  .home-section {
+   padding: 60px 0;
+   background-color: none;
+  }
+}

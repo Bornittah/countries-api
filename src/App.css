@@ -64,11 +64,6 @@ body {
   font-family: "Gill Sans", sans-serif;
 }
 
-.menu {
-  list-style-type: none;
-  padding: 12px 15px;
-}
-
 .link {
   text-decoration: none;
   font-size: 1.2rem;
@@ -81,11 +76,6 @@ body {
 
 .link:hover {
   background-color: #a10d466b;
-}
-
-.home-screen h2 {
-  text-align: center;
-  margin: 12px 0;
 }
 
 .home-data {
@@ -239,6 +229,21 @@ body {
     border: 0.3px solid #9dbfaf;
   }
 
+  .search-wrapper {
+    flex-direction: column;
+    padding: 12px 0;
+  }
+
+  .grid-continent {
+    width: 100%;
+  }
+
+  .country-list {
+    height: 100px;
+    padding: 12px;
+    width: 100%;
+  }
+
   .grid-container a:nth-child(n+2) { background-color: #910c5a8a; }
-  .grid-continent li:nth-child(2n+1) { background-color: #910c5a8a; }
+  .grid-continent li:nth-child(3n+1) { background-color: #910c5a8a; }
 }
