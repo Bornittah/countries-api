@@ -242,5 +242,5 @@ body {
   }
 
   .grid-container a:nth-of-type(2n+3) { background-color: #910c5a8a; }
-  .grid-continent a:nth-child(2n+2) { background-color: #74114a2f;}
+  .grid-continent a:nth-child(2n+2) { background-color: #74114a2f; }
 }
