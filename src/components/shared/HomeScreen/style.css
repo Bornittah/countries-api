@@ -3,7 +3,6 @@
   padding: 60px 0;
   align-items: flex-end;
   text-align: right;
-  /* background-color: #910c5a8a; */
 }
 
 .home-section h2 {
@@ -12,11 +11,4 @@
 
 .home-section p {
   font-size: 1.2rem;
-}
-
-@media screen and (max-width: 768px) {
-  /* .home-section {
-   padding: 60px 0;
-   background-color: none;
-  } */
 }
