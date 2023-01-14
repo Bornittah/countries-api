@@ -1,9 +1,9 @@
 .home-section {
-  background-color: #da4f84;
   color: #fff;
-  padding: 60px 24px;
+  padding: 60px 0;
   align-items: flex-end;
   text-align: right;
+  /* background-color: #910c5a8a; */
 }
 
 .home-section h2 {
@@ -15,8 +15,8 @@
 }
 
 @media screen and (max-width: 768px) {
-  .home-section {
+  /* .home-section {
    padding: 60px 0;
    background-color: none;
-  }
+  } */
 }

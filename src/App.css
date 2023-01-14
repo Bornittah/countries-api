@@ -94,6 +94,7 @@ body {
 }
 
 .grid-continent {
+  display: grid;
   grid-template-columns: repeat(1, 1fr);
   width: 95%;
   margin: 0 auto;
@@ -176,8 +177,7 @@ body {
 
 .country-table tr:hover { background-color: #a10d466b; }
 .country-table tr:nth-child(even) { background-color: #a10d466b; }
-.grid-container a:nth-child(2n+2) { background-color: #2e0515fa; }
-.grid-continent li:nth-child(2n+3) { background-color: #2e0515fa; }
+.grid-container a:nth-child(2n+1) { background-color: #2e0515fa; }
 
 .country-table th {
   padding: 12px;
@@ -224,18 +224,11 @@ body {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .grid {
-    height: 200px;
-    border: 0.3px solid #9dbfaf;
-  }
-
   .search-wrapper {
+    width: 100%;
     flex-direction: column;
     padding: 12px 0;
-  }
-
-  .grid-continent {
-    width: 100%;
+    align-items: center;
   }
 
   .country-list {
@@ -244,6 +237,10 @@ body {
     width: 100%;
   }
 
-  .grid-container a:nth-child(n+2) { background-color: #910c5a8a; }
-  .grid-continent li:nth-child(3n+1) { background-color: #910c5a8a; }
+  .grid-continent li {
+    width: 100%;
+  }
+
+  .grid-container a:nth-of-type(2n+2) { background-color: #910c5a8a; }
+  .grid-continent a:nth-child(2n+2) { background-color: #74114a2f;}
 }
