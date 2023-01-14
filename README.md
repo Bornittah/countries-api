@@ -34,6 +34,7 @@
 # 📖 [countries-api] <a name="about-project"></a>
 
 **[countries-api]**is a web application that shows major regions and countries in the world. It fetches data from <a href="https://restcountries.com/#api-endpoints-v3-all">REST COUNTRIES API</a>
+
 <img src="./public/countries-api.png" width="150px">
 
 ## 🛠 Built With <a name="built-with"></a>

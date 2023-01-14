@@ -80,7 +80,7 @@ body {
 }
 
 .link:hover {
-  background-color: #a10d466b; 
+  background-color: #a10d466b;
 }
 
 .home-screen h2 {
@@ -155,11 +155,6 @@ body {
   align-items: center;
 }
 
-.grid-continent li:hover {
-  background-color: #2e051525;
-}
-
-
 .country-table {
   border-collapse: collapse;
   width: 95%;
@@ -185,7 +180,11 @@ body {
   padding: 8px;
 }
 
-.country-table tr:hover {  background-color: #a10d466b; }
+.grid-continent li:hover {
+  background-color: #2e051525;
+}
+
+.country-table tr:hover { background-color: #a10d466b; }
 .country-table tr:nth-child(even) { background-color: #a10d466b; }
 .grid-container a:nth-child(2n+2) { background-color: #2e0515fa; }
 .grid-continent li:nth-child(2n+3) { background-color: #2e0515fa; }
